@@ -1,0 +1,1284 @@
+fileFormatVersion: 2
+guid: 126afd86c4b55f6478cb3722fd75c5af
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15255e95496b3b4e98b179d72dc852a
+      internalID: -1488233726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 437
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbdca3b285bac843b93c53e713cab3b
+      internalID: -1878542661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 557
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1f4c843f2daeb42afdb67f14e02dee
+      internalID: -1349443297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 556
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e711d1cb5f13c4db9f0009bef391e5
+      internalID: -729766999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 557
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4058d5d86927ddf45b892b5940b608b7
+      internalID: -687641913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 557
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c70c7231d06644bac385be1e2fbcbe
+      internalID: 1606414242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 557
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10270d4e9443fcc4c835942a46528869
+      internalID: 1615614588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 557
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2c0a8664ac65246bf4fbc2e3fbcc11
+      internalID: 606859154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 556
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c2e7ac4431e8f4ebc81ecf9927755b
+      internalID: 924009324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 556
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32613b15c2bd0e44934d32b68dfb0e0
+      internalID: 828174251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 556
+        width: 106
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd9e4c324efce34ba73fa48fb2163b4
+      internalID: 59475003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 506
+        width: 218
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b415e389762f20a47b9e22f9a6b6a788
+      internalID: -1904373927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 505
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38feea504ec18fc469b8f47f07a42451
+      internalID: -362641715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 455
+        width: 103
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560870d48e1165249b7324ed5aa5adf6
+      internalID: 1730508985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 455
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4f28b659fb303469cc6c1715bd5137
+      internalID: 1125845254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 453
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cedbb17f0d52f4bbc9d2c5f5d07d5e
+      internalID: -1091499507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_16
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 455
+        width: 95
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0483aec1f87ad4399780fc01ec2b99
+      internalID: 903744113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_17
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 456
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf49b06821fe2846bb4fd57235d53dd
+      internalID: -869459301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_18
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 452
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0934ff1b2bc5f794b964f20d75caed8e
+      internalID: -92670278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_19
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 423
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6990b12d2d6e77a4fa61c28d8f7a81a8
+      internalID: 1962183599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 423
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddd58d0793cec14397bbc8b249ace8d
+      internalID: 1779288697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_21
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 423
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6560847105bb8dc469c6366d1c3aa8e8
+      internalID: 89623905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_22
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 423
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cef764911ae684a8d8dd2fb1709117
+      internalID: -2018691765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_23
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 401
+        width: 125
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc02eb407b00b84da1ef2568a36e68f
+      internalID: -924643319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_24
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 402
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d8e447594a0724f9892c156c7ee15f
+      internalID: -1960483044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_25
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 404
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b06160a0d50ddd47b7db73ccfef2873
+      internalID: -1690918094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_26
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 404
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2561ee966651b1e40bd5240e09766e91
+      internalID: 1654571244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_27
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 404
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e10615ca584ca4e80233a1cdb534f0
+      internalID: 1833304365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5c0fb6e0c73be40a5a2b96df36742e
+      internalID: 1668074352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_29
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 375
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94212a2f762d1af4a80ef5a3165d1dd4
+      internalID: 139340097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_30
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 375
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b82e29bdf8df9f4abaa0c84a728c149
+      internalID: 1470012099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_31
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 375
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6045243802cf1d41bf60aaeb22c4db0
+      internalID: -33698263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_32
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 375
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12f47b1cbf44f748a2a24fa785432b5
+      internalID: -1930062446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_33
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 344
+        width: 104
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c8dc3481a76d4438b5c88ce48a3b1e
+      internalID: -1221826664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_34
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 344
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df4197db31d9a6418e67f867085b50b
+      internalID: 506418765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_35
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 351
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8243227b5b7a603418b889bf26ecb3ef
+      internalID: -1821967654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_36
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 349
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22028239025701429c4ace7924f6852
+      internalID: -1972901456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_37
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 328
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9751455ad1edab448b6cc1648c6fe52
+      internalID: 2123434233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_38
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 267
+        width: 182
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a92c1824c5d124396290e21ea1da8f
+      internalID: -939482988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 227
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ff700f27beef849bc613a3a4abf259
+      internalID: -425130764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_40
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 232
+        width: 151
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6390a1f2d82fd7747bd8da662435081b
+      internalID: 572163938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_41
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 290
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f24299960cb5e54fa18e8e7922c0539
+      internalID: -55213508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_42
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 267
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c318328d7b3967d489e7141f0f93e2f4
+      internalID: 2114080331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 257
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7b271186574d54cad9947a3e495329
+      internalID: 821317474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_44
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 163
+        width: 258
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4470fd62d6413441a0fb83fe4e74bb6
+      internalID: 1283132808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_45
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 68
+        width: 264
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eadc9bdf434034a9321f25de21c731
+      internalID: -1686807307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_46
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 164
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1034b315633643f48883cf6f661bd436
+      internalID: -1670114835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a048d94d619edd042b69dcf11974bda2
+      internalID: 1761048367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_48
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 33
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5946a67d55328d34189455472630aa79
+      internalID: -892698477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_49
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 17
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eccba08f3b40ce41a66071e8a879ca0
+      internalID: 918136034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_50
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 13
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372fdef4faecb1b46af045cb4b0244d0
+      internalID: -1484914286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_51
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 3
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1cca0323e4fcd4fb69dd4c0c5f1c10
+      internalID: -1652406984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_0: -1488233726
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_1: -1878542661
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_10: 59475003
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_11: -1904373927
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_12: -362641715
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_13: 1730508985
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_14: 1125845254
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_15: -1091499507
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_16: 903744113
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_17: -869459301
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_18: -92670278
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_19: 1962183599
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_2: -1349443297
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_20: 1779288697
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_21: 89623905
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_22: -2018691765
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_23: -924643319
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_24: -1960483044
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_25: -1690918094
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_26: 1654571244
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_27: 1833304365
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_28: 1668074352
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_29: 139340097
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_3: -729766999
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_30: 1470012099
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_31: -33698263
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_32: -1930062446
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_33: -1221826664
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_34: 506418765
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_35: -1821967654
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_36: -1972901456
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_37: 2123434233
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_38: -939482988
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_39: -425130764
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_4: -687641913
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_40: 572163938
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_41: -55213508
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_42: 2114080331
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_43: 821317474
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_44: 1283132808
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_45: -1686807307
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_46: -1670114835
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_47: 1761048367
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_48: -892698477
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_49: 918136034
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_5: 1606414242
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_50: -1484914286
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_51: -1652406984
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_6: 1615614588
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_7: 606859154
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_8: 924009324
+      gamecube___dance_dance_revolution_mario_mix___danc_by_modelsandsprites_d8cldy7-fullview_9: 828174251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
